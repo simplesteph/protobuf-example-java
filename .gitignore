@@ -1,0 +1,5 @@
+.gradle/
+.idea/
+build/
+gradle
+simple_message.bin
