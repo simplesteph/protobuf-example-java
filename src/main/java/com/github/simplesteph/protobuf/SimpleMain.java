@@ -1,6 +1,5 @@
 package com.github.simplesteph.protobuf;
 
-import example.simple.Simple;
 import example.simple.Simple.SimpleMessage;
 
 import java.io.FileInputStream;
