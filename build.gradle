@@ -20,9 +20,9 @@ repositories {
 }
 
 dependencies {
-    implementation group: 'com.google.protobuf', name: 'protobuf-java', version: '3.17.3'
-    implementation group: 'com.google.protobuf', name: 'protobuf-java-util', version: '3.17.3'
+    implementation group: 'com.google.protobuf', name: 'protobuf-java', version: '3.19.1'
+    implementation group: 'com.google.protobuf', name: 'protobuf-java-util', version: '3.19.1'
 
-    implementation 'com.google.protobuf:protobuf-gradle-plugin:0.8.17'
+    implementation 'com.google.protobuf:protobuf-gradle-plugin:0.8.18'
     testImplementation group: 'junit', name: 'junit', version: '4.12'
 }
